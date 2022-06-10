@@ -8,7 +8,7 @@ To set up the environment for the python script, in the repo directory, do:
 
 ```sh
 # do this in your virtualenv or normal terminal with sudo
-pip3 install datetime pandas_datareader
+pip3 install datetime pandas_datareader tabulate
 ```
 
 ## Run script
